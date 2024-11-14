@@ -16,5 +16,7 @@ p.push {margin-left: 630px;}
 ul {list-style-image: url('donut.png');}
 h2.education {text-align: center;}
 h2.experience {text-align: center;}
+
+.accordion-button:not(.collapse){background-color: white !important}
 linked./* visited link */a:visited {color: blue;}
 /* mouse over link */a:hover {color: hotpink;}
